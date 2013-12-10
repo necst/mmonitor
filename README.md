@@ -1,4 +1,4 @@
 mmonitor
 ========
 
-The MMonitor source code
+The MMonitor source code.
